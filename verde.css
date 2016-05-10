@@ -1,0 +1,149 @@
+header{
+  width: 100%;
+  height: 200px;
+  background: black;
+  margin: auto;
+}
+.der i{
+
+  float: right;
+  margin: 10px 250px 0 0;
+}
+.der p{
+  color: white;
+  margin-top: 130px;
+  margin-left: 20px;
+  font-size: 50px;
+}
+.der{
+  background: #4EC1FF;
+  height: 200px;
+  width: 70%;
+float: right;
+}
+.huge{
+  float: left;
+  background: none;
+  width: 60px;
+  height: 40px;
+  border: 2px solid #3A3A3A;
+  margin: 10px 0 0 10px;
+  color: #3A3A3A;
+}
+.arriba{
+  background: black;
+  width: 100%;
+  height: 490px;
+}
+.top{
+  padding-top: 30px;
+}
+.titulo{
+  text-align: center;
+  color: white;
+font-family: 'Share', cursive;
+font-size: 20px;
+}
+.subtitulo{
+  text-align: center;
+  color:white;
+  padding-top: 10px;
+  font-family: 'Share', cursive;
+}
+.boton{
+  width: 250px;
+  height: 350px;
+  background: white;
+  margin-left: 20px;
+  margin-top: 10px;
+  display: inline-block;
+  text-align: center;
+}
+.cuadrados{
+margin-left: 20%;
+}
+.gris{
+  width: 250px;
+  height: 55%;
+  background: #3A3A3A;
+}
+.texto{
+  margin-top: 5px;
+}
+.texth{
+  margin-top: 10px;
+}
+
+/*parte en blanco*/
+.abajo{
+display: flex;
+}
+.uno{
+  width: 50%;
+  height: 300px;
+}
+.dos{
+width: 50%;
+height: 300px;
+}
+.ref1{
+  width: 100%;
+  height: 40px;
+  background: #4EC1FF;
+  color: white;
+  text-align: left;
+  border: 0;
+  margin: 10px 0 10px 0;
+}
+.principal{
+  margin-top: 50px;
+  margin-left: 290px;
+}
+.principal2{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.item{
+  margin: 10px;
+  display: inline-block;
+}
+.borde{
+border-top: 2px solid #4EC1FF;
+}
+.imgris{
+  margin-top: 10px;
+  padding-left: 5px;
+  display: inline-block;
+}
+.img{
+  width: 100px;
+  height: 100px;
+  background: #3A3A3A;
+}
+.parrafo{
+  width: 300px;
+  height: 150px;
+  text-align:left;
+}
+.textom{
+  margin-left: 10px;
+  color: #4EC1FF;
+}
+.textop{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.textop2{
+  width: 290px;
+}
+/*footer*/
+.divfoot{
+  background: #3A3A3A;
+  width: 100%;
+  height: 100px;
+}
+.foot{
+  width: 100%;
+  height: 30px;
+  background: #282828;
+}
